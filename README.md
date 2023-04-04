@@ -1,5 +1,5 @@
-#                                                       **Gurmanjot Singh Cheema**
-##                                                   Portfolio for data science projects
+# About me
+## I am Gurmanjot Singh , data science & ML enthusiats
 
 
 # Project 1: Car sales predcitor: Project overview
