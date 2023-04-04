@@ -1,5 +1,5 @@
-# Gurman_Portfolio
-Portfolio for data science projects.
+#                                                        **Gurmanjot Singh Cheema**
+                                                  # Portfolio for data science projects.
 
 
 # Project 1: Car sales predcitor: Project overview
