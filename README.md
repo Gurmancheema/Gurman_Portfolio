@@ -1,6 +1,6 @@
 # About me
 ## I am Gurmanjot Singh , data science & ML enthusiast.
-My portfolio demonstrates my proficiency in machine learning, data analysis, and data visualization, utilizing various tools such as Python, PowerBI, SQL, and Tableau. Through projects ranging from predictive modeling to natural language processing, I showcase my expertise in working with structured and unstructured data, and effectively communicating insights to stakeholders. My projects highlight my skills in data preprocessing, feature engineering, and model selection, showcasing my ability to develop robust solutions to complex problems.<img align="right" src=https://user-images.githubusercontent.com/48720243/229845784-f9964016-83a5-4e1c-b35e-88d5003124a9.jpg>
+My portfolio demonstrates my proficiency in machine learning, data analysis, and data visualization, utilizing various tools such as Python, PowerBI, SQL, and Tableau. Through projects ranging from predictive modeling to natural language processing, I showcase my expertise in working with structured and unstructured data, and effectively communicating insights to stakeholders. My projects highlight my skills in data preprocessing, feature engineering, and model selection, showcasing my ability to develop robust solutions to complex problems.<https://github.com/Gurmancheema/Portfolio/blob/main/resized.jpg>
 
 # [Project 1: Car sales predictor: Project overview](https://github.com/Gurmancheema/Car-Sales-Predictor-WebApp-using-Random-Forest-Regressor)
 
@@ -12,6 +12,6 @@ My portfolio demonstrates my proficiency in machine learning, data analysis, and
 
 
 <p align="center" >
-<img src= https://user-images.githubusercontent.com/48720243/229848414-3ff49170-cf2a-41cf-8739-ca11969879ca.png> 
+<img src= https://github.com/Gurmancheema/Portfolio/blob/main/webapi%20.png> 
 </p>
     
