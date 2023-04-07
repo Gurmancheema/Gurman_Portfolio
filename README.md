@@ -13,8 +13,5 @@ My portfolio demonstrates my proficiency in machine learning, data analysis, and
 - Built a client-facing API using Streamlit, which allows users to input car attributes and receive a predicted resale value in return.
 - The project aimed to help people understand the value of their used cars and help car dealerships make better pricing decisions.
 
-
-<p align="center" >
-<img src= https://github.com/Gurmancheema/Portfolio/blob/main/webapi%20.png> 
-</p>
+![](https://github.com/Gurmancheema/Portfolio/blob/main/images/webapi%20.png)
     
