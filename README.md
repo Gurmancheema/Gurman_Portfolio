@@ -16,3 +16,6 @@ My portfolio demonstrates my proficiency in machine learning, data analysis, and
 <p align="center">
   <img width="460" height="460" src="https://github.com/Gurmancheema/Portfolio/blob/main/images/webapi.png">
 </p>
+
+
+<img align="right" width="150" height="150" src="pic.jpg">
