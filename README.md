@@ -14,5 +14,5 @@ My portfolio demonstrates my proficiency in machine learning, data analysis, and
 - The project aimed to help people understand the value of their used cars and help car dealerships make better pricing decisions.
    
 <p align="center">
-  <img width="460" height="460" src="https://github.com/Gurmancheema/Portfolio/blob/main/images/webapi%20.png">
+  <img width="460" height="460" src="https://github.com/Gurmancheema/Portfolio/blob/main/images/webapi.png">
 </p>
