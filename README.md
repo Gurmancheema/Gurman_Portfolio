@@ -17,3 +17,10 @@ My portfolio demonstrates my proficiency in machine learning, data analysis, and
   <img width="460" height="460" src="webapi.png">
 </p>
 
+# [Project 2: Fake News Classifier: Project overview](https://github.com/Gurmancheema/Fake-News-Classifier)
+
+- Created a machine learning model to predict the resale value of cars using a dataset from Kaggle
+- Explored and experimented with various regression algorithms, and found that the random forest regressor performed the best
+- Performed data cleansing, feature engineering, and other operations to improve the accuracy of the model
+- Built a client-facing API using Streamlit, which allows users to input car attributes and receive a predicted resale value in return.
+- The project aimed to help people understand the value of their used cars and help car dealerships make better pricing decisions.
