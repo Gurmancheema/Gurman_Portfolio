@@ -19,8 +19,8 @@ My portfolio demonstrates my proficiency in machine learning, data analysis, and
 
 # [Project 2: Fake News Classifier: Project overview](https://github.com/Gurmancheema/Fake-News-Classifier)
 
-- Created a machine learning model to predict the resale value of cars using a dataset from Kaggle
-- Explored and experimented with various regression algorithms, and found that the random forest regressor performed the best
-- Performed data cleansing, feature engineering, and other operations to improve the accuracy of the model
-- Built a client-facing API using Streamlit, which allows users to input car attributes and receive a predicted resale value in return.
-- The project aimed to help people understand the value of their used cars and help car dealerships make better pricing decisions.
+- Fake News Classifier: Developed a model using Passive Aggressive algorithm with 93% accuracy.
+- Kaggle Dataset: Utilized diverse dataset from Kaggle for training and testing.
+- Exploratory Data Analysis (EDA): Conducted comprehensive EDA to extract insights and preprocess data.
+- Development Tools: Leveraged Visual Studio Code, GitHub, and Postman for efficient development.
+- Successful Implementation with Front-End Web Application: Utilized Flask framework to create a user-friendly front-end web application, allowing users to interact with the fake news classifier and receive real-time predictions
