@@ -26,5 +26,5 @@ My portfolio demonstrates my proficiency in machine learning, data analysis, and
 - Successful Implementation with Front-End Web Application: Utilized Flask framework to create a user-friendly front-end web application, allowing users to interact with the fake news classifier and receive real-time predictions
 
 <p align="center">
-  <img width="460" height="460" src="Screenshot 2023-06-24 173518.png">
+  <img width="600" height="450" src="Screenshot 2023-06-24 173518.png">
 </p>
