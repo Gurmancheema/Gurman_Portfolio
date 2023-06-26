@@ -28,3 +28,5 @@ My portfolio demonstrates my proficiency in machine learning, data analysis, and
 <p align="center">
   <img width="600" height="450" src="Screenshot 2023-06-24 173518.png">
 </p>
+
+# [Project 3: Boston House Price Prediction: Project overview](https://github.com/Gurmancheema/Fake-News-Classifier)
