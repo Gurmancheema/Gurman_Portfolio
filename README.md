@@ -35,3 +35,7 @@ My portfolio demonstrates my proficiency in machine learning, data analysis, and
 - Utilized linear regression, a powerful machine learning algorithm, to build a predictive model for estimating house prices in Boston. Implemented the model using appropriate libraries and frameworks in Python.
 - Visualizations such as scatter plots, histograms, and box plots helped in understanding feature distributions, identifying correlations, and detecting potential outliers.
 - Deployed the ML model and the Flask web application on the Heroku platform, making it accessible to users over the internet.
+
+<p align="center">
+  <img width="600" height="450" src="boston.png">
+</p>
