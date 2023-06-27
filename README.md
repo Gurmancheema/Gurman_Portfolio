@@ -26,7 +26,7 @@ My portfolio demonstrates my proficiency in machine learning, data analysis, and
 - Successful Implementation with Front-End Web Application: Utilized Flask framework to create a user-friendly front-end web application, allowing users to interact with the fake news classifier and receive real-time predictions
 
 <p align="center">
-  <img width="600" height="450" src="Screenshot 2023-06-24 173518.png">
+  <img width="650" height="450" src="Screenshot 2023-06-24 173518.png">
 </p>
 
 # [Project 3: Boston House Price Prediction: Project overview](https://github.com/Gurmancheema/BostonHousePricing/tree/main)
@@ -37,5 +37,5 @@ My portfolio demonstrates my proficiency in machine learning, data analysis, and
 - Deployed the ML model and the Flask web application on the Heroku platform, making it accessible to users over the internet.
 
 <p align="center">
-  <img width="600" height="450" src="boston.png">
+  <img width="650" height="450" src="boston.png">
 </p>
